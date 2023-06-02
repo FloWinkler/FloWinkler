@@ -5,7 +5,6 @@
                 <b><a target="_blank" href="https://flowinkler.io/">Florian Winkler</a></b>
         </samp>
 </h3>
-<br>
 <p align="center">
         <!-- Intro -->
         <samp>
