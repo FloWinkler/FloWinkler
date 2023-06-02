@@ -16,8 +16,7 @@
                 to further enhance my skills and make a meaningful contribution to your company.</b>
                 <br>
                 <br>
-<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="center" width="150" height="150" margin-right="20"/>
-
-- 🖥️ I’m currently learning three.js
+<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="150" height="150" margin-right="20"/>
+- 🖥️ I’m currently learning React & THREE
 - 📫 How to reach me: florian.michael.winkler@hotmail.com
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.
