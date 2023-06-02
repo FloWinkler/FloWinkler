@@ -10,7 +10,7 @@
         <samp>
                 Armed with creativity, a sprinkle of humor and a hunger to build cool things,
                 <br>
-                I am actively seeking a practicum or traineeship opportunity</b>
+                I am actively seeking a internship or traineeship opportunity</b>
                 <br>
                 to further enhance my skills and make a meaningful contribution to your company.</b>
                 <br>
