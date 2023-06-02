@@ -16,8 +16,8 @@
                 <br>
                  <br>
 <p/>
-<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="75" height="75"/>
-<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="75" height="75"/>
+<p align="left">
 🖥️ I’m currently learning React & THREE
 <br>
 📫 How to reach me: florian.michael.winkler@hotmail.com
