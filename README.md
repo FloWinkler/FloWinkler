@@ -8,7 +8,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                Armed with creativity, a sprinkle of humor and a hunger to build cool things,
+                Armed with creativity, a sprinkle of humor and a hunger to build new things,
                 <br>
                 I am actively seeking a traineeship or internship opportunity</b>
                 <br>
