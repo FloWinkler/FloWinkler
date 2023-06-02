@@ -16,8 +16,9 @@
                 to further enhance my skills and make a meaningful contribution to your company.</b>
                 <br>
                 <br>
-<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="70" height="70" margin-right="20"/>
-<p align="left">🖥️ I’m currently learning React & THREE
+<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="80" height="80" margin-right="20"/>
+<p align="left">
+🖥️ I’m currently learning React & THREE
 <br>
 📫 How to reach me: florian.michael.winkler@hotmail.com
 <br>
