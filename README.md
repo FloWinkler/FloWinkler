@@ -1,5 +1,3 @@
-
-
 <h3 align="center">
         <samp>  Hey There 👋 I am
                 <b><a target="_blank" href="https://flowinkler.io/">Florian Winkler</a></b>
