@@ -16,7 +16,7 @@
                 <br>
                  <br>
 <p/>
-<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="75" height="75" margin-left="200"/>
+<img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="75" height="75" margin-left="2000"/>
 <p align="left">
 🖥️ I’m currently learning React & THREE
 <br>
