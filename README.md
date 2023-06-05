@@ -20,5 +20,5 @@
 <br>
 📫 How to reach me: florian.michael.winkler@hotmail.com
 <br>
-👻 Fun fact: Banging your head against a wall for one hour burns 150 calories.
+👻 F
 <p/>
