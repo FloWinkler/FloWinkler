@@ -20,6 +20,6 @@
 <br>
 📫 How to reach me: florian.michael.winkler@hotmail.com
 <br>
-👻 < href="https://github.com/FloWinkler/FloWinkler/files/11686062/CV_FloWinkler.pdf" >
+👻 <a href="https://github.com/FloWinkler/FloWinkler/files/11686062/CV_FloWinkler.pdf" >CV_FloWinkler</a>
 
 <p/>
