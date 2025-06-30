@@ -8,15 +8,15 @@
         <samp>
                 Armed with creativity, a sprinkle of humor and a hunger to build new things,
                 <br>
-                I am actively seeking a traineeship or internship opportunity</b>
+                I am actively seeking a new job opportunity where I can learn, grow,</b>
                 <br>
-                to further enhance my skills and make a meaningful contribution to your company.</b>
+                and help build things that actually make a difference.</b>
                 <br>
                  <br>
 <p/>
 <img src="https://github.com/FloWinkler/FloWinkler/assets/135036974/09f8d20c-a68d-4773-95fa-3f08a1296ffa" align="left" width="65" height="65"/>
 <p align="left">
-🖥️ I’m currently learning React & Three.js
+🖥️ I am currently enhancing my skills in UI/UX design and implementation, with a focus on usability, accessibility and clean visual structure.
 <br>
 📫 How to reach me: florian.michael.winkler@hotmail.com
 <br>
